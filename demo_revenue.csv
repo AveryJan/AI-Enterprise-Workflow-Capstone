@@ -1,0 +1,181 @@
+country,date,revenue
+United States,2020-01-01,10045.71
+United States,2020-02-01,10269.0
+United States,2020-03-01,10868.79
+United States,2020-04-01,11066.08
+United States,2020-05-01,10613.56
+United States,2020-06-01,10529.67
+United States,2020-07-01,10469.18
+United States,2020-08-01,10127.56
+United States,2020-09-01,9991.26
+United States,2020-10-01,9847.04
+United States,2020-11-01,10275.69
+United States,2020-12-01,10591.67
+United States,2021-01-01,10909.9
+United States,2021-02-01,11494.09
+United States,2021-03-01,11726.34
+United States,2021-04-01,11696.11
+United States,2021-05-01,11861.53
+United States,2021-06-01,11481.17
+United States,2021-07-01,11481.77
+United States,2021-08-01,11067.51
+United States,2021-09-01,10866.05
+United States,2021-10-01,10772.86
+United States,2021-11-01,11227.16
+United States,2021-12-01,11351.82
+United States,2022-01-01,11735.75
+United States,2022-02-01,12172.18
+United States,2022-03-01,12636.06
+United States,2022-04-01,12779.82
+United States,2022-05-01,12768.13
+United States,2022-06-01,12589.62
+United States,2022-07-01,12571.25
+United States,2022-08-01,11914.04
+United States,2022-09-01,11716.95
+United States,2022-10-01,11652.93
+United States,2022-11-01,12036.18
+United States,2022-12-01,12444.35
+United States,2023-01-01,12682.91
+United States,2023-02-01,12998.98
+United States,2023-03-01,13332.55
+United States,2023-04-01,13722.59
+United States,2023-05-01,13717.71
+United States,2023-06-01,13506.47
+United States,2023-07-01,13050.17
+United States,2023-08-01,12909.82
+United States,2023-09-01,12711.29
+United States,2023-10-01,12707.8
+United States,2023-11-01,12974.5
+United States,2023-12-01,13208.54
+United States,2024-01-01,13701.84
+United States,2024-02-01,14035.14
+United States,2024-03-01,14399.59
+United States,2024-04-01,14619.69
+United States,2024-05-01,14287.64
+United States,2024-06-01,14277.05
+United States,2024-07-01,13979.44
+United States,2024-08-01,13679.17
+United States,2024-09-01,13552.51
+United States,2024-10-01,13799.24
+United States,2024-11-01,13613.91
+United States,2024-12-01,14220.24
+Canada,2020-01-01,6247.57
+Canada,2020-02-01,6874.77
+Canada,2020-03-01,7280.63
+Canada,2020-04-01,7512.93
+Canada,2020-05-01,7512.9
+Canada,2020-06-01,7344.0
+Canada,2020-07-01,6897.69
+Canada,2020-08-01,6605.65
+Canada,2020-09-01,6622.48
+Canada,2020-10-01,6446.3
+Canada,2020-11-01,6452.43
+Canada,2020-12-01,6805.01
+Canada,2021-01-01,7262.08
+Canada,2021-02-01,7899.57
+Canada,2021-03-01,8177.58
+Canada,2021-04-01,8428.57
+Canada,2021-05-01,8242.13
+Canada,2021-06-01,8148.78
+Canada,2021-07-01,7943.84
+Canada,2021-08-01,7528.6
+Canada,2021-09-01,7462.3
+Canada,2021-10-01,7275.71
+Canada,2021-11-01,7489.32
+Canada,2021-12-01,7817.74
+Canada,2022-01-01,8120.62
+Canada,2022-02-01,8798.05
+Canada,2022-03-01,8985.81
+Canada,2022-04-01,9226.87
+Canada,2022-05-01,9278.33
+Canada,2022-06-01,9091.98
+Canada,2022-07-01,8849.81
+Canada,2022-08-01,8460.23
+Canada,2022-09-01,8230.29
+Canada,2022-10-01,8263.04
+Canada,2022-11-01,8190.68
+Canada,2022-12-01,8557.93
+Canada,2023-01-01,9001.6
+Canada,2023-02-01,9475.41
+Canada,2023-03-01,10016.18
+Canada,2023-04-01,9989.18
+Canada,2023-05-01,10049.49
+Canada,2023-06-01,10119.88
+Canada,2023-07-01,9596.56
+Canada,2023-08-01,9485.63
+Canada,2023-09-01,9053.74
+Canada,2023-10-01,9144.18
+Canada,2023-11-01,9201.28
+Canada,2023-12-01,9624.15
+Canada,2024-01-01,10226.05
+Canada,2024-02-01,10265.9
+Canada,2024-03-01,10921.38
+Canada,2024-04-01,11060.66
+Canada,2024-05-01,10917.1
+Canada,2024-06-01,10608.09
+Canada,2024-07-01,10560.82
+Canada,2024-08-01,10195.58
+Canada,2024-09-01,10128.68
+Canada,2024-10-01,10078.28
+Canada,2024-11-01,10484.05
+Canada,2024-12-01,10539.1
+United Kingdom,2020-01-01,7846.48
+United Kingdom,2020-02-01,8451.89
+United Kingdom,2020-03-01,8789.22
+United Kingdom,2020-04-01,9128.88
+United Kingdom,2020-05-01,9031.48
+United Kingdom,2020-06-01,8778.53
+United Kingdom,2020-07-01,8669.5
+United Kingdom,2020-08-01,7996.69
+United Kingdom,2020-09-01,7897.82
+United Kingdom,2020-10-01,7836.01
+United Kingdom,2020-11-01,8085.31
+United Kingdom,2020-12-01,8268.5
+United Kingdom,2021-01-01,8995.27
+United Kingdom,2021-02-01,9291.67
+United Kingdom,2021-03-01,9435.6
+United Kingdom,2021-04-01,9672.66
+United Kingdom,2021-05-01,9853.24
+United Kingdom,2021-06-01,9750.72
+United Kingdom,2021-07-01,9649.51
+United Kingdom,2021-08-01,9512.08
+United Kingdom,2021-09-01,8955.94
+United Kingdom,2021-10-01,8726.57
+United Kingdom,2021-11-01,8723.98
+United Kingdom,2021-12-01,9415.16
+United Kingdom,2022-01-01,9678.06
+United Kingdom,2022-02-01,10162.7
+United Kingdom,2022-03-01,10464.4
+United Kingdom,2022-04-01,10703.88
+United Kingdom,2022-05-01,10866.11
+United Kingdom,2022-06-01,10548.56
+United Kingdom,2022-07-01,10226.2
+United Kingdom,2022-08-01,9819.65
+United Kingdom,2022-09-01,9542.58
+United Kingdom,2022-10-01,9702.05
+United Kingdom,2022-11-01,9935.71
+United Kingdom,2022-12-01,10540.19
+United Kingdom,2023-01-01,10719.54
+United Kingdom,2023-02-01,11272.41
+United Kingdom,2023-03-01,11381.32
+United Kingdom,2023-04-01,11447.26
+United Kingdom,2023-05-01,11461.45
+United Kingdom,2023-06-01,11316.22
+United Kingdom,2023-07-01,11469.27
+United Kingdom,2023-08-01,10751.79
+United Kingdom,2023-09-01,10819.56
+United Kingdom,2023-10-01,10539.56
+United Kingdom,2023-11-01,10983.52
+United Kingdom,2023-12-01,11232.74
+United Kingdom,2024-01-01,11576.5
+United Kingdom,2024-02-01,12018.89
+United Kingdom,2024-03-01,12258.0
+United Kingdom,2024-04-01,12591.91
+United Kingdom,2024-05-01,12437.97
+United Kingdom,2024-06-01,12141.16
+United Kingdom,2024-07-01,11858.31
+United Kingdom,2024-08-01,11800.89
+United Kingdom,2024-09-01,11830.65
+United Kingdom,2024-10-01,11599.0
+United Kingdom,2024-11-01,11725.99
+United Kingdom,2024-12-01,12117.87

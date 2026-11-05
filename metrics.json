@@ -1,0 +1,20 @@
+{
+  "selected_model": "random_forest",
+  "validation": {
+    "baseline": {
+      "mae": 7440.672,
+      "rmse": 11148.978
+    },
+    "ridge": {
+      "mae": 1841.617,
+      "rmse": 2185.427
+    },
+    "random_forest": {
+      "mae": 1425.452,
+      "rmse": 1705.838
+    }
+  },
+  "validation_start": "2024-01-01",
+  "validation_end": "2024-12-01",
+  "note": "Synthetic demonstration dataset; illustrative metrics, not production validation."
+}
